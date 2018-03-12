@@ -17,4 +17,4 @@
 ---
 enabled: true
 port: 8000
-suspend: false
+suspend: true
